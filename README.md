@@ -15,3 +15,8 @@ pip install snntorch
 
 - [Coppeliasim](https://www.coppeliarobotics.com/) simulator for robotics applications
 
+```python
+pip install coppeliasim-zmqremoteapi-client
+```
+
+
